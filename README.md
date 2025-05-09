@@ -1,5 +1,5 @@
 # 💫 About Me:
-20 yo Full Stack web dev<br>Computer Science student at Lublin University of Technology. <br>Passionate about Python, web development.
+Full Stack web dev<br>Computer Science student at Lublin University of Technology. <br>Passionate about Python, web development.
 
 
 ## 🌐 Socials:
